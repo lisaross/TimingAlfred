@@ -6,7 +6,8 @@ Note: haven't started. This is just a scratch file for what I want to do.
 ## Reference
 
 * Alfred Workflows Help: https://www.alfredapp.com/help/workflows/
-* Timing Applescript: 
+* Timing Site Applescript reference: https://timingapp.com/help/applescript
+* Timing Control Tracking Applescript: 
 
 ``` Applescript
     -- Copyright (c) 2017 timingapp.com / Daniel Alm. All rights reserved.
